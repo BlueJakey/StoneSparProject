@@ -1,0 +1,71 @@
+*{
+  line-height: 2em;
+  letter-spacing: 0.8px;
+  font-family:helvetica;
+  padding:0;
+  margin:auto;
+}
+.container{
+  height:100%;
+}
+.header{
+  background-color:#444444;
+  border-bottom: 3px solid black;
+  opacity: 0.9;
+}
+.paulstonegroup{
+  float:right;
+}
+ul{
+margin-left:48px;
+}
+li{
+  display: inline;
+  list-style: none;
+  margin: auto;
+}
+a{
+  text-decoration: none;
+  padding:15px 30px 15px 30px;
+  font-size: 30px;
+  color:#fff;
+}
+a:hover{
+  color:white;
+  transition: 0.3s;
+  border-bottom:2px solid red;
+}
+.contact{
+  color:white;
+  font-size:25px;
+  float:right;
+  margin:5px 20px 10px 10px;
+}
+.email{
+  color:white;
+  font-size:25px;
+  float:right;
+  margin:5px 20px 10px 10px
+}
+article{
+  padding:25px;
+  margin-left:40px;
+  line-height: 3em;
+}
+p{
+  font-size:19px;
+  line-height:1.9em;
+}
+.heading{
+  padding-left:25px;
+  font-family: helvetica;
+  font-weight:bold;
+  color:red;
+  margin-left:40px;
+  text-align: ;
+  font-size: 30px;
+}
+.subheading{
+  color:red;
+  font-family:arial;
+}
